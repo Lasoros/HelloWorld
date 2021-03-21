@@ -14,7 +14,7 @@ using namespace std;
 int main()
 {
 
-	cout << "\nHello World" << endl << endl;
+	cout << "\nHello, Universe!" << endl << endl; //edited from Hello World
 
 
 	cout << endl << endl;
